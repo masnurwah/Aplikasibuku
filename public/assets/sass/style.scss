@@ -1,0 +1,25 @@
+// Fonts
+@import '_fonts';
+
+// Bootstrap
+// @import 'node_modules/bootstrap/scss/bootstrap';
+@import 'bootstrap/bootstrap.scss';
+
+// Slick Slider
+@import 'slick/slick-theme.scss';
+@import 'slick/slick.scss';
+
+// Fontawesome
+@import 'fontawesome/scss/fontawesome.scss';
+@import 'fontawesome/scss/brands.scss';
+@import 'fontawesome/scss/regular.scss';
+@import 'fontawesome/scss/solid.scss';
+
+// Variables
+@import '_variables';
+
+// Style
+@import '_navigation';
+@import '_global';
+@import '_responsive';
+
